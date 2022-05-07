@@ -1,4 +1,5 @@
 # [教程] 如何录制 B 站直播
+补充：本教程主要针对 macOS 用户，因为我没有 Windows 机器，所以 Windows 上怎么办我不知道。
 
 # 工具1：[blrec](https://github.com/acgnhiki/blrec) （有图形操作界面，是个网页）
 本地运行例子（如果你本地装了 Docker，直接运行这条命令）：
